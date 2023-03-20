@@ -1,0 +1,34 @@
+#grad {
+    background-image: linear-gradient(to right, red , yellow);
+  }
+  main {
+    background-color: purple;
+  }
+form {
+  background-color: lightpink;
+  text-color: white;
+}
+body {
+	background-color: rgb(185, 238, 106);
+  font-family: "nunito", sans-serif;
+
+  
+}
+footer {
+  background-color: goldenrod;
+  padding-left: 40px;
+}
+ h1 {
+  font-family:'Times New Roman', Times, serif;
+ }
+ h3 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ p {
+  font-family: monospace;
+ }
+ h5 {
+  font-family: sans-serif;
+ }
+
+  
